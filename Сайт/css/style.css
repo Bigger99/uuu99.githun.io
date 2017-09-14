@@ -1,0 +1,46 @@
+.footer, .header{
+    background-color: #111daa;
+}
+
+.phone, .left-sidebar, .social, .work{
+    color: white;
+}
+
+a:link, .position {
+    color: blue;
+}
+
+.name, a:hover{
+    color: black;
+    font-weight: bold;
+}
+
+.section {
+   font-weight: bold;
+}
+
+.navigation-main{
+    font-style: italic;
+}
+
+.finish {
+    line-height: 0;
+}
+
+.social-icons img {
+    width:30px;
+    height: 30px;
+}
+
+.foto {
+    border-radius: 50%;
+   }
+
+.icon{
+  width:20px;
+  height: 20px;  
+}
+
+ul {
+    list-style: none;
+   }
